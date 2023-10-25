@@ -6,9 +6,4 @@ class Krilin extends Character
     {
         return 'Krilin usa Kienzan';
     }
-
-    public function attack(): string
-    {
-        return 'Krilin usa Kamehameha';
-    }
 }

@@ -6,9 +6,4 @@ class Gohan extends Character
     {
         return 'Gohan usa Mazazo Meteoro';
     }
-
-    public function attack(): string
-    {
-        return 'Gohan usa Masenko';
-    }
 }

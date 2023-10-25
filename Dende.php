@@ -6,9 +6,4 @@ class Dende extends Character
     {
         return 'Dende usa Curación';
     }
-
-    public function attack(): string
-    {
-        return 'Dende no ataca';
-    }
 }

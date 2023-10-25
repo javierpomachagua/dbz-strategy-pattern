@@ -6,9 +6,4 @@ class Goku extends Character
     {
         return 'Goku usa Genkidama';
     }
-
-    public function attack(): string
-    {
-        return 'Goku usa Hamekameha';
-    }
 }
